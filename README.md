@@ -4,7 +4,7 @@
 To download and use this boilerplate:
 
 1. Clone this repository to your local machine.
-2. Navigate to the project directory in your terminal and run npm install to install the required dependencies.
+2. Navigate to the project directory in your terminal and run `npm install` to install the required dependencies.
 3. Run `npm start` to start the development server with vite
 
 ## Scripts:
